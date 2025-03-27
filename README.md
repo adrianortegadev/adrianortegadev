@@ -1,1 +1,9 @@
-![Lenguajes](https://github-readme-stats-ten-beta-36.vercel.app/api/top-langs/?username=adrianortegadev&layout=compact&count_private=true&force_refresh=1&random=12345)
+# 👋 ¡Hola! Soy @adrianortegaw2m
+
+## Sobre mí  
+💼 Actualmente de prácticas en **World2Meet**  
+🚀 Desarrollador full-stack apasionado por crear soluciones innovadoras  
+
+## 🌐 Mis otros perfiles GitHub
+- [adrianortegaw2m](https://github.com/adrianortegaw2m)
+- [adriancesurform](https://github.com/adriancesurform)
